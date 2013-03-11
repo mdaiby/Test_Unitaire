@@ -1,0 +1,5 @@
+c:\users\mohamed\documents\visual studio 2012\Projects\Matchs_Lib\Matchs_Lib\bin\Debug\Matchs_Lib.dll
+c:\users\mohamed\documents\visual studio 2012\Projects\Matchs_Lib\Matchs_Lib\bin\Debug\Matchs_Lib.pdb
+c:\users\mohamed\documents\visual studio 2012\Projects\Matchs_Lib\Matchs_Lib\obj\Debug\Matchs_Lib.dll
+c:\users\mohamed\documents\visual studio 2012\Projects\Matchs_Lib\Matchs_Lib\obj\Debug\Matchs_Lib.pdb
+C:\Users\Mohamed\Documents\Visual Studio 2012\Projects\Matchs_Lib\Matchs_Lib\obj\Debug\Matchs_Lib.csprojResolveAssemblyReference.cache
