@@ -78,7 +78,13 @@ namespace Matchs_Lib
                 return false;
             }
 
-        }        
+        }
+        public int getGoal(bool isHome)
+        {
+            if (!isHome)
+                return this._awayGoal;
+            return this._homeGoal;
+        }
     } 
 
 }

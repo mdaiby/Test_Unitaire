@@ -25,7 +25,7 @@ namespace FrenchLeague1PointSystemLib
             }
             public PointTotal(Matchs m, bool isHome)
             {
-                this.point = m.HomeGoals - m.AwayGoal;
+                this.point = m.getGoal(isHome) - m.getGoal(!isHome);
                 this.goalaverage += this.point;
             }
             public void Increment(ITotal ipoint)

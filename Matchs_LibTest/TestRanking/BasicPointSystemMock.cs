@@ -19,7 +19,7 @@ namespace TestRanking
             }
             public TotalMock(Matchs m, bool IsHome)
             {
-                this.point = m.HomeGoals - m.AwayGoal;
+                this.point = m.getGoal(IsHome) - m.getGoal(!IsHome);
             }
             public void Increment(ITotal with)
             {

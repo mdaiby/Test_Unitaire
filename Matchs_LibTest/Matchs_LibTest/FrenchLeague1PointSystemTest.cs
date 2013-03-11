@@ -10,7 +10,7 @@ namespace Matchs_LibTest
     [TestClass]
     public class FrenchLeague1PointSystemTest
     {
-        public static FrenchLeague1PointSystem FLPS = (FrenchLeague1PointSystem)FrenchLeague1PointSystem.Instance;
+        public  FrenchLeague1PointSystem FLPS = (FrenchLeague1PointSystem)FrenchLeague1PointSystem.Instance;
         [TestMethod]
         public void TestInstance()
         {
