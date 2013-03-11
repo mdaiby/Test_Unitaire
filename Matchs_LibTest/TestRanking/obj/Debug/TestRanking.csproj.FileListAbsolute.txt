@@ -1,0 +1,9 @@
+C:\Users\Mohamed\documents\visual studio 2012\Projects\Matchs_LibTest\TestRanking\obj\Debug\TestRanking.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\documents\visual studio 2012\Projects\Matchs_LibTest\TestRanking\bin\Debug\TestRanking.dll
+C:\Users\Mohamed\documents\visual studio 2012\Projects\Matchs_LibTest\TestRanking\bin\Debug\TestRanking.pdb
+C:\Users\Mohamed\documents\visual studio 2012\Projects\Matchs_LibTest\TestRanking\bin\Debug\Matchs_Lib.dll
+C:\Users\Mohamed\documents\visual studio 2012\Projects\Matchs_LibTest\TestRanking\bin\Debug\PointSystemLib.dll
+C:\Users\Mohamed\documents\visual studio 2012\Projects\Matchs_LibTest\TestRanking\bin\Debug\Matchs_Lib.pdb
+C:\Users\Mohamed\documents\visual studio 2012\Projects\Matchs_LibTest\TestRanking\bin\Debug\PointSystemLib.pdb
+C:\Users\Mohamed\documents\visual studio 2012\Projects\Matchs_LibTest\TestRanking\obj\Debug\TestRanking.dll
+C:\Users\Mohamed\documents\visual studio 2012\Projects\Matchs_LibTest\TestRanking\obj\Debug\TestRanking.pdb

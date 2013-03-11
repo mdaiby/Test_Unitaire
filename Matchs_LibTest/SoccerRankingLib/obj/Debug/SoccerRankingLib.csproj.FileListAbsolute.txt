@@ -1,0 +1,9 @@
+C:\Users\Mohamed\documents\visual studio 2012\Projects\Matchs_LibTest\SoccerRankingLib\obj\Debug\SoccerRankingLib.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\documents\visual studio 2012\Projects\Matchs_LibTest\SoccerRankingLib\bin\Debug\SoccerRankingLib.dll
+C:\Users\Mohamed\documents\visual studio 2012\Projects\Matchs_LibTest\SoccerRankingLib\bin\Debug\SoccerRankingLib.pdb
+C:\Users\Mohamed\documents\visual studio 2012\Projects\Matchs_LibTest\SoccerRankingLib\bin\Debug\Matchs_Lib.dll
+C:\Users\Mohamed\documents\visual studio 2012\Projects\Matchs_LibTest\SoccerRankingLib\bin\Debug\PointSystemLib.dll
+C:\Users\Mohamed\documents\visual studio 2012\Projects\Matchs_LibTest\SoccerRankingLib\bin\Debug\Matchs_Lib.pdb
+C:\Users\Mohamed\documents\visual studio 2012\Projects\Matchs_LibTest\SoccerRankingLib\bin\Debug\PointSystemLib.pdb
+C:\Users\Mohamed\documents\visual studio 2012\Projects\Matchs_LibTest\SoccerRankingLib\obj\Debug\SoccerRankingLib.dll
+C:\Users\Mohamed\documents\visual studio 2012\Projects\Matchs_LibTest\SoccerRankingLib\obj\Debug\SoccerRankingLib.pdb

@@ -1,0 +1,13 @@
+C:\Users\Mohamed\documents\visual studio 2012\Projects\Matchs_LibTest\FrenchLeague1PointSystemLib\obj\Debug\FrenchLeague1PointSystemLib.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\documents\visual studio 2012\Projects\Matchs_LibTest\FrenchLeague1PointSystemLib\bin\Debug\FrenchLeague1PointSystemLib.dll
+C:\Users\Mohamed\documents\visual studio 2012\Projects\Matchs_LibTest\FrenchLeague1PointSystemLib\bin\Debug\FrenchLeague1PointSystemLib.pdb
+C:\Users\Mohamed\documents\visual studio 2012\Projects\Matchs_LibTest\FrenchLeague1PointSystemLib\bin\Debug\Matchs_Lib.dll
+C:\Users\Mohamed\documents\visual studio 2012\Projects\Matchs_LibTest\FrenchLeague1PointSystemLib\bin\Debug\PointSystemLib.dll
+C:\Users\Mohamed\documents\visual studio 2012\Projects\Matchs_LibTest\FrenchLeague1PointSystemLib\bin\Debug\TestRanking.dll
+C:\Users\Mohamed\documents\visual studio 2012\Projects\Matchs_LibTest\FrenchLeague1PointSystemLib\bin\Debug\Matchs_Lib.pdb
+C:\Users\Mohamed\documents\visual studio 2012\Projects\Matchs_LibTest\FrenchLeague1PointSystemLib\bin\Debug\PointSystemLib.pdb
+C:\Users\Mohamed\documents\visual studio 2012\Projects\Matchs_LibTest\FrenchLeague1PointSystemLib\bin\Debug\TestRanking.pdb
+C:\Users\Mohamed\documents\visual studio 2012\Projects\Matchs_LibTest\FrenchLeague1PointSystemLib\obj\Debug\FrenchLeague1PointSystemLib.dll
+C:\Users\Mohamed\documents\visual studio 2012\Projects\Matchs_LibTest\FrenchLeague1PointSystemLib\obj\Debug\FrenchLeague1PointSystemLib.pdb
+C:\Users\Mohamed\documents\visual studio 2012\Projects\Matchs_LibTest\FrenchLeague1PointSystemLib\bin\Debug\SoccerRankingLib.dll
+C:\Users\Mohamed\documents\visual studio 2012\Projects\Matchs_LibTest\FrenchLeague1PointSystemLib\bin\Debug\SoccerRankingLib.pdb
